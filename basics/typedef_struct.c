@@ -1,3 +1,7 @@
+//Date: Aug 16 2024
+//Name: Nishant Thosar
+//Place: Pune
+
 /*Typedef of struct*/
 
 #include <stdio.h>

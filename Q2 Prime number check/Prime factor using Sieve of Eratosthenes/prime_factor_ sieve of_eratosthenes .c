@@ -31,7 +31,7 @@ void prime_finder(int n)
 		{
 			for (int j = i*i; j <= n; j+=i)
 			{
-				arr_of_nos[i] = 1;
+				arr_of_nos[j] = 1;
 			}//for ends
 		}//if ends
 	}//for ends

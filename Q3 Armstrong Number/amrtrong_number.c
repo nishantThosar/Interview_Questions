@@ -1,4 +1,6 @@
-/*Amrtrong_number.c*/
+/*Amrtrong_number program
+Video link: https://youtu.be/tmXDtb1xhGY?si=PNXLLK6Ucplaty0U
+*/
 #include <stdio.h>
 #include <stdbool.h>
 
